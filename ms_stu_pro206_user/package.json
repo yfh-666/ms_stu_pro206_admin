@@ -1,0 +1,36 @@
+{
+  "name": "ms_stu_pro206_user",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "better-scroll": "^2.5.1",
+    "js-cookie": "^3.0.5",
+    "vant": "^2.13.2",
+    "vue": "^2.6.14",
+    "vue-amap": "^0.5.10",
+    "vue-cookies": "^1.8.4",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "stylus": "^0.63.0",
+    "stylus-loader": "^3.0.1",
+    "vue-template-compiler": "^2.6.14",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

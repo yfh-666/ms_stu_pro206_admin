@@ -1,0 +1,24 @@
+.page-container {
+    height: auto;
+    // width: 100%;
+}
+
+.align-center {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.padding {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background-color: #eff8fc;
+}
+
+* {
+    font-family: "宋体";
+}

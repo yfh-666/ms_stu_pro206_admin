@@ -1,0 +1,37 @@
+{
+  "id": "4705470",
+  "name": "ms_stu_pro206_user",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1487626",
+      "name": "微信支付",
+      "font_class": "weixinzhifu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "2681724",
+      "name": "余额支付",
+      "font_class": "balance",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15933089",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "8288851",
+      "name": "minus",
+      "font_class": "jianhao",
+      "unicode": "e84f",
+      "unicode_decimal": 59471
+    }
+  ]
+}
